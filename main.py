@@ -1,5 +1,4 @@
 print("HELLO,welcome to ROBOT_BARISTA")
-name = input()
 name = input("What is your name?\n ")
 print("hey, " + name + " thank you for coming in today,What would you like to order?")
 menu = "cappucino,black coffee,latte,white coffee,iced coffee and espresso"
